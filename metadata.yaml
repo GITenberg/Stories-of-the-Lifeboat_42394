@@ -1,0 +1,26 @@
+_repo: Stories-of-the-Lifeboat_42394
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42394-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mundell, Frank
+    gutenberg_agent_id: '41669'
+    url: http://www.gutenberg.org/2009/agents/41669
+description: ''
+gutenberg_issued: '2013-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rescues -- Great Britain'
+- !lcc 'VK'
+- !lcsh 'Shipwrecks -- Great Britain'
+- !lcsh 'Lifeboat service -- Great Britain'
+title: Stories of the Lifeboat
+url: http://www.gutenberg.org/ebooks/42394
