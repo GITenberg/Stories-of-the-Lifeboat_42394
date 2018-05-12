@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41669'
     url: http://www.gutenberg.org/2009/agents/41669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42394#Stories-of-the-Lifeboat
 gutenberg_issued: '2013-03-23'
 gutenberg_type: Text
 identifiers:
